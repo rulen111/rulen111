@@ -20,9 +20,21 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Личные проекты
-- ![**BioParser Telegram Bot**](https://github.com/rulen111/bioparser-tgbot)
+- [**BioParser Telegram Bot**](https://github.com/rulen111/bioparser-tgbot)
+- [**Animal Tracker**](https://github.com/rulen111/animalTracker)
+- [**VKCC Auto**](https://github.com/rulen111/vkcc-auto)
 
 ## Учебыне проекты
+- [**«Резервное копирование»**](https://github.com/rulen111/pyapi-88-homeworks/tree/main/pyapi-88-cw)
+- [**«VKinder»**](https://github.com/rulen111/vkinder)
+- [**«Верстка адаптивных макетов сайта»**](https://github.com/rulen111/fpymq-diploma)
+- **Практические работы по крусам:**
+  - [**«Профессиональная работа с Python»**](https://github.com/rulen111/adpy-88-homeworks)
+  - [**«ООП и работа с API»**](https://github.com/rulen111/pyapi-88-homeworks)
+  - [**«Базы данных для python-разработчиков»**](https://github.com/rulen111/sqlpy-88-homeworks)
+  - [**«Django»**](https://github.com/rulen111/dj-88-homeworks)
+  - [**«HTML и CSS: основы веб-верстки»**](https://codepen.io/collection/JGqwkP)
+  - [**«Базовый JavaScript в браузере»**](https://github.com/rulen111/fpyjs-88-homeworks)
 
 <!--
 **rulen111/rulen111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
