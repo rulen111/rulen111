@@ -32,7 +32,7 @@
 - [**VKCC Auto**](https://github.com/rulen111/vkcc-auto)
   
   Задачи: для массива ссылок с ютм-метками вернуть массив этих же ссылок, сокращенных с помощью сервиса vk.cc, создать веб-сервис на Flask.<br>
-  Используемые технологии: python, requests, API VK, flask.
+  Используемые технологии: python, requests, API VK, flask, celery, jquery.
 
 ## Учебные проекты
 - [**«Резервное копирование»**](https://github.com/rulen111/pyapi-88-homeworks/tree/main/pyapi-88-cw)
