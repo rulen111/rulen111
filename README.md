@@ -23,37 +23,37 @@
 - [**BioParser Telegram Bot**](https://github.com/rulen111/bioparser-tgbot)
 
   Задачи: подключить переданные аккаунты, получить данные профиля массива пользователей телеграм, передать полученные данные в виде таблицы, создать интерфейс в боте Телеграм.<br>
-  Используемые технологии: python, aiogram, telethon, asyncio.
+  Используемые технологии: `python`, `aiogram`, `telethon`, `asyncio`.
   
 - [**Animal Tracker**](https://github.com/rulen111/animalTracker)
 
   Задачи: найти координаты объекта в каждом кадре видео, валидировать трек объекта, провести анализ характеристик перемещения объекта, создать графический интерфейс для Windows.<br>
-  Используемые технологии: python, opencv, pyqt, numpy, docker, docker-compose.
+  Используемые технологии: `python`, `opencv`, `pyqt`, `numpy`, `docker`, `docker-compose`.
 - [**VKCC Auto**](https://github.com/rulen111/vkcc-auto)
   
   Задачи: для массива ссылок с ютм-метками вернуть массив этих же ссылок, сокращенных с помощью сервиса vk.cc, создать веб-сервис на Flask.<br>
-  Используемые технологии: python, requests, API VK, flask, celery, jquery.
+  Используемые технологии: `python`, `requests`, `API VK`, `flask`, `celery`, `jquery`.
 
 - Тестовое задание [**Django Nested Menu**](https://github.com/rulen111/dj-nested-menu)
 
   Задачи: реализовать на чистом django приложение, которое позволяет вносить в БД меню (одно или несколько) через админку, и нарисовать на любой нужной странице меню по названию, используя один запрос к БД.<br>
-  Используемые технологии: python, django.
+  Используемые технологии: `python`, `django`.
 
 ## Учебные проекты
 - [**«Резервное копирование»**](https://github.com/rulen111/pyapi-88-homeworks/tree/main/pyapi-88-cw)
 
   Задачи: реализовать получение фотографий из профиля VK пользователя, сохранение фотографий в облачное хранилище Я.Диск.<br>
-  Используемые технологии: python, requests, API VK, API Я.Диска, logging.
+  Используемые технологии: `python`, `requests`, `API VK`, `API Я.Диска`, `logging`.
   
 - [**«VKinder»**](https://github.com/rulen111/vkinder)
 
   Задачи: реализовать взаимодействие с ВКонтакте для получения информации о пользователях и их фотографий, реализовать БД и интеграцию с ботом, реализовать интерфейс взаимодействия с ботом.<br>
-  Используемые технологии: python, requests, vk-api, PostgreSQL, SQLAlchemy, logging.
+  Используемые технологии: `python`, `requests`, `vk-api`, `PostgreSQL`, `SQLAlchemy`, `logging`.
 
 - [**«Верстка адаптивных макетов сайта»**](https://github.com/rulen111/fpymq-diploma)
 
   Задачи: cверстать адаптивные макеты сайта для стационарных и мобильных устройств, а также планшетов.<br>
-  Используемые технологии: HTML, CSS, JavaScript.
+  Используемые технологии: `HTML`, `CSS`, `JavaScript`.
 
 - **Практические работы по крусам:**
   - [**«Профессиональная работа с Python»**](https://github.com/rulen111/adpy-88-homeworks)
