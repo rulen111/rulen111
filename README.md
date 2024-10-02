@@ -28,11 +28,11 @@
 - [**Animal Tracker**](https://github.com/rulen111/animalTracker)
 
   Задачи: найти координаты объекта в каждом кадре видео, валидировать трек объекта, провести анализ характеристик перемещения объекта, создать графический интерфейс для Windows.<br>
-  Используемые технологии: `python`, `opencv`, `pyqt`, `numpy`, `docker`, `docker-compose`.
+  Используемые технологии: `python`, `opencv`, `pyqt`, `numpy`.
 - [**VKCC Auto**](https://github.com/rulen111/vkcc-auto)
   
   Задачи: для массива ссылок с ютм-метками вернуть массив этих же ссылок, сокращенных с помощью сервиса vk.cc, создать веб-сервис на Flask.<br>
-  Используемые технологии: `python`, `requests`, `API VK`, `flask`, `celery`, `jquery`.
+  Используемые технологии: `python`, `requests`, `API VK`, `flask`, `celery`, `jquery`, `docker`, `docker-compose`.
 
 - Тестовое задание [**Django Nested Menu**](https://github.com/rulen111/dj-nested-menu)
 
