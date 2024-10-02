@@ -64,6 +64,7 @@
   - [**«Базовый JavaScript в браузере»**](https://github.com/rulen111/fpyjs-88-homeworks)
 
 <!--
+![Leetcode Stats](https://leetcard.jacoblin.cool/rulen111)
 **rulen111/rulen111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
